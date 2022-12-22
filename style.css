@@ -140,9 +140,10 @@ section > ul {
 
 #vidio {
     background-color: #122c1f;
-    margin: 0px -20px 30px -20px;
-    padding: 20px;
-    padding-bottom: 58%;
+    margin: 0px -6px 30px -6px;
+    padding: 20%;
+    padding-left: 22%;
+    padding-bottom: 20%;
     position: relative;
 }
 
@@ -150,7 +151,7 @@ div#video > iframe {
     position: absolute;
     top: 5%;
     left: 5%;
-    width: 90%%;
+    width: 90%;
     height: 90%;
 }
 
@@ -192,3 +193,4 @@ section > p {
 a.externo::after {
     content: '\🔗';
 }
+
