@@ -141,9 +141,8 @@ section > ul {
 #vidio {
     background-color: #122c1f;
     margin: 0px -6px 30px -6px;
-    padding: 20%;
-    padding-left: 22%;
-    padding-bottom: 20%;
+    padding: 20px;
+    padding-bottom: 18%;
     position: relative;
 }
 
